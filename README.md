@@ -21,7 +21,7 @@ You are required to create a basic web application that displays a list of produ
 
 **Task Steps:**
 
-1. Clone the starter repository from the provided Git repository [URL](https://github.com/). 
+1. Clone the starter repository from the provided Git repository [URL](https://github.com/ElmarkTW/recruitment-task.git). 
 
 2. Prepare API based on Free API Editor [mocki.io](https://mocki.io/) from project source file /api/products.json
 

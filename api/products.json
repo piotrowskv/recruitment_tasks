@@ -10,7 +10,7 @@
             "is_salable": 1,
             "stock": 35,
             "price": 29.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -25,7 +25,7 @@
             "is_salable": 1,
             "stock": 73,
             "price": 19.95,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -40,7 +40,7 @@
             "is_salable": 1,
             "stock": 81,
             "price": 45.50,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -55,7 +55,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 9.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "Summer Sale",
             "promotion_discount": 10,
             "new_product": 0
@@ -70,7 +70,7 @@
             "is_salable": 1,
             "stock": 64,
             "price": 55.00,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -85,7 +85,7 @@
             "is_salable": 0,
             "stock": 0,
             "price": 79.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -99,8 +99,8 @@
             "manufacturer": "Universal Robots",
             "is_salable": 1,
             "stock": 5,
-            "price": 39.95,
-            "tax": 0.23,
+            "price": 139.95,
+            "tax": 8,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -115,7 +115,7 @@
             "is_salable": 1,
             "stock": 25,
             "price": 14.50,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -130,7 +130,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 64.75,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -145,7 +145,7 @@
             "is_salable": 1,
             "stock": 70,
             "price": 22.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -160,7 +160,7 @@
             "is_salable": 1,
             "stock": 40,
             "price": 39.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -175,7 +175,7 @@
             "is_salable": 1,
             "stock": 22,
             "price": 29.95,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -190,7 +190,7 @@
             "is_salable": 0,
             "stock": 0,
             "price": 69.50,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -205,7 +205,7 @@
             "is_salable": 1,
             "stock": 11,
             "price": 29.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "Back to School",
             "promotion_discount": 15,
             "new_product": 0
@@ -220,7 +220,7 @@
             "is_salable": 1,
             "stock": 5,
             "price": 299.00,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -235,7 +235,7 @@
             "is_salable": 0,
             "stock": 0,
             "price": 99.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -250,7 +250,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 49.95,
-            "tax": 0.23,
+            "tax": 8,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -265,7 +265,7 @@
             "is_salable": 1,
             "stock": 18,
             "price": 179.50,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -277,10 +277,10 @@
             "description": "Keyboard from producer Moxa",
             "url_key": "1018/MoxSKU1018",
             "manufacturer": "Moxa",
-            "is_salable": 1,
+            "is_salable": 0,
             "stock": 40,
             "price": 54.75,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -295,7 +295,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 32.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -310,7 +310,7 @@
             "is_salable": 1,
             "stock": 90,
             "price": 49.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -325,7 +325,7 @@
             "is_salable": 1,
             "stock": 32,
             "price": 39.95,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -340,7 +340,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 89.50,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -355,7 +355,7 @@
             "is_salable": 1,
             "stock": 10,
             "price": 59.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "Holiday Special",
             "promotion_discount": 12,
             "new_product": 0
@@ -370,9 +370,9 @@
             "is_salable": 1,
             "stock": 8,
             "price": 499.00,
-            "tax": 0.23,
-            "promotion": "",
-            "promotion_discount": 0,
+            "tax": 23,
+            "promotion": "Holiday Special",
+            "promotion_discount": 12,
             "new_product": 0
         },
         {
@@ -385,7 +385,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 129.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -400,7 +400,7 @@
             "is_salable": 1,
             "stock": 40,
             "price": 59.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -415,7 +415,7 @@
             "is_salable": 1,
             "stock": 22,
             "price": 49.95,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -430,7 +430,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 129.50,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -445,9 +445,9 @@
             "is_salable": 1,
             "stock": 11,
             "price": 89.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "Spring Clearance",
-            "promotion_discount": 18,
+            "promotion_discount": 8,
             "new_product": 0
         },
         {
@@ -460,7 +460,7 @@
             "is_salable": 1,
             "stock": 5,
             "price": 699.00,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -475,9 +475,9 @@
             "is_salable": 1,
             "stock": 0,
             "price": 159.99,
-            "tax": 0.23,
-            "promotion": "",
-            "promotion_discount": 0,
+            "tax": 23,
+            "promotion": "Summer Break",
+            "promotion_discount": 5,
             "new_product": 1
         },
         {
@@ -490,9 +490,9 @@
             "is_salable": 1,
             "stock": 18,
             "price": 59.95,
-            "tax": 0.23,
-            "promotion": "",
-            "promotion_discount": 0,
+            "tax": 8,
+            "promotion": "Summer Sale",
+            "promotion_discount": 10,
             "new_product": 0
         },
         {
@@ -505,7 +505,7 @@
             "is_salable": 1,
             "stock": 10,
             "price": 229.50,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -520,9 +520,9 @@
             "is_salable": 1,
             "stock": 40,
             "price": 74.75,
-            "tax": 0.23,
-            "promotion": "",
-            "promotion_discount": 0,
+            "tax": 23,
+            "promotion": "Spring Clearance",
+            "promotion_discount": 8,
             "new_product": 0
         },
         {
@@ -535,7 +535,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 49.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -550,7 +550,7 @@
             "is_salable": 1,
             "stock": 90,
             "price": 69.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -565,7 +565,7 @@
             "is_salable": 1,
             "stock": 52,
             "price": 59.95,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -580,7 +580,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 149.50,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -595,9 +595,9 @@
             "is_salable": 1,
             "stock": 18,
             "price": 149.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "Summer Break",
-            "promotion_discount": 20,
+            "promotion_discount": 5,
             "new_product": 0
         },
         {
@@ -610,7 +610,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 899.00,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -625,7 +625,7 @@
             "is_salable": 1,
             "stock": 28,
             "price": 189.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -640,7 +640,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 79.95,
-            "tax": 0.23,
+            "tax": 8,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -655,7 +655,7 @@
             "is_salable": 1,
             "stock": 13,
             "price": 279.50,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
@@ -670,7 +670,7 @@
             "is_salable": 1,
             "stock": 0,
             "price": 94.75,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 0
@@ -685,7 +685,7 @@
             "is_salable": 1,
             "stock": 35,
             "price": 69.99,
-            "tax": 0.23,
+            "tax": 23,
             "promotion": "",
             "promotion_discount": 0,
             "new_product": 1
