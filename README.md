@@ -34,7 +34,7 @@ You are required to create a basic web application that displays a list of produ
    - Description
    - Manufacturer
    - Availability (In Stock/Out of Stock) - if attribute "is_salable" = 0 don't display product.
-   - Price - net / gross (calculated based on tax and api net price) - with special information and price calulation for promotion if applicable (promotional discount applies to the net price)
+   - Price - net / gross (calculated based on tax and api net price) - with special display information and price calculation for promotion if applicable (promotional discount applies to the net price)
    - New product notification if applicable
 
 5. Implement a basic filtering mechanism that allows users to filter products based on their availability (In Stock/Out of Stock).
