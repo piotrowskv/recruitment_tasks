@@ -1,9 +1,10 @@
-# Store application done for Junior Developer Recruitment Challenge at Elmark
+### Store application made for Junior Developer Recruitment Challenge at Elmark
 
-**Setting up**
-Check if you have all necessities installed and run the following code:
-<code>
+**Setup**
+
+Not hosted anywhere. Change directory to `store` and run:
+```
 cd store
 npm install
 npm run
-</code>
+```
