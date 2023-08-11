@@ -1,30 +1,24 @@
 import { useEffect, useState } from "react";
 import { MultiSelect } from "react-multi-select-component";
-import { getAllManufacturers } from "./api";
+import { getAllManufacturers } from "../api";
 
+/* multiselect component that changes filtering settings if manufacturers are changed */
 const FilterByManufacturerComponent: React.FC<{ ChangeManufacturersFilter: (manufacturersFilter: string[]) => void }> = ({ ChangeManufacturersFilter }) => {
     const [allManufacturers, setAllManufacturers] = useState<string[]>([])
-    const [selected, setSelected] = useState(allManufacturers.map(m => ({ value: m, label: m })));
+    const [selected, setSelected] = useState<any[]>([]);
 
+    /* gets all manufacturers from API, initially all manufacturers are selected */
     useEffect(() => {
         getAllManufacturers()
             .then(mans => {
                 setAllManufacturers(mans)
-                handleErasingFilters()
+                setSelected(mans.map(m => ({ value: m, label: m })))
+                ChangeManufacturersFilter(mans)
             })
-    }, []);
-    const handleErasingFilters = () => {
-        if (selected.length === 0) {
-            setSelected(allManufacturers.map(m => ({ value: m, label: m })))
-            ChangeManufacturersFilter(allManufacturers)
-        }
-    }
+    }, [ChangeManufacturersFilter]);
+
     const handleChange = (event: any) => {
-        console.log(event)
         setSelected(event)
-        if (selected.length === 0 && event.length != 1) {
-            handleErasingFilters()
-        }
         ChangeManufacturersFilter(event.map((m: { label: any; value: any }) => (m.label)))
     }
     return (

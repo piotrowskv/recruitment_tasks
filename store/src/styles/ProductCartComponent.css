@@ -1,0 +1,45 @@
+.divheader {
+    color: '#F7E7CE';
+    font-family: Arial;
+    text-align: center;
+}
+
+.outside-table {
+    min-width: 300px;
+    padding-top: 20px;
+    width:30%;
+    height: 300px;
+    border: solid;
+    border-width: 2px;
+
+}
+
+table {
+    color: #ffe6ff;
+    border-radius: 20px;
+    background-color: #4d004d;
+    margin: 20px;
+    float:left;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.inside-table {
+    width: 90%;
+    height: 90%;
+}
+
+.label {
+    text-align: left
+}
+
+.label-text {
+    text-align: right;
+}
+
+.new-marker {
+    text-align: center;
+    background-color: #1f1f1f;
+    color: whitesmoke;
+}

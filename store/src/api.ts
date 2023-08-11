@@ -1,5 +1,6 @@
 const URL = 'https://mocki.io/v1/350fe141-ddbf-4ec4-9dfa-48033d8ca7da'
 
+/*gets all products from URL using asynchronous functions */
 export const getProducts = async () => {
     try {
         let response = await fetch(URL);
@@ -17,6 +18,8 @@ export const getProducts = async () => {
         throw e;
     }
 };
+
+/*gets all manufacturers from URL using asynchronous functions */
 export const getAllManufacturers = async () => {
     let all_manufacturers: any[] = []
     try {
@@ -26,6 +29,8 @@ export const getAllManufacturers = async () => {
             for (var i = 0; i < tmp.products.length; ++i) {
                 all_manufacturers.push(tmp.products[i].manufacturer)
             }
+
+            /*filters manufacturers to be unique */
             var unique = all_manufacturers.filter((value, index, array) => array.indexOf(value) === index);
             return unique
         } else {

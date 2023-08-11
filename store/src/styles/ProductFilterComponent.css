@@ -1,0 +1,30 @@
+.checkbox-filter {
+    width: 40%;
+    float: left;
+    min-width: 300px;
+        margin:20px;
+
+}
+
+.list-filter {
+    width: 40%;
+    float: right;
+    min-width: 300px;
+    margin:20px;
+}
+
+.filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 20px;
+    width:fit-content;
+    border: solid;
+    color:#5a5a5a;
+    border-radius: 20px;
+    align-items: center;
+    justify-items: center;
+}
+body{
+    align-items: center;
+}

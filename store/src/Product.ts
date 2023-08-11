@@ -1,3 +1,4 @@
+/* interface of Product that is unpacked from JSON format */
 export interface Product {
     entity_id: string;
     sku: string;

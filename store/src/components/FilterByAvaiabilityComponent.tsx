@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Product from "./Product";
 
 const FilterByAviabilityComponent: React.FC<{ ChangeAvaibilityFilter: (avaiabilityFilter: boolean) => void }> = ({ ChangeAvaibilityFilter }) => {
     const [checked, setChecked] = useState(false);
